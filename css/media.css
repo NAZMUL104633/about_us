@@ -1,0 +1,224 @@
+@media(max-width:1199px){
+    .black_b_one {
+        top: -58%;
+    }
+    .black_b_two {
+        top: -23%;
+    }
+    .black_b_three {
+        left: 76%;
+    }
+    .about_img img {
+        width: 69%;
+    }
+    .about_content h1 {
+        padding: 40px 0;
+    }
+    .about_content p {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .about_img_content p {
+        line-height: normal;
+        font-size: 18px;
+    }
+    .section_heading p {
+        line-height: normal;
+        font-size: 18px;
+    }
+    .about_us_info {
+        padding-bottom: 0;
+        padding-right: 40px;
+    }
+    .about_us_section {
+        padding-bottom: 0;
+    }
+    .section_heading h1 {
+        font-size: 74px;
+        padding-bottom: 40px;
+    }
+    .mission_section {
+        padding-top: 100px;
+        padding-bottom: 50px;
+    }
+    .section_info {
+        height: 500px;
+        padding-right: 40px;
+    }
+    .section_img {
+        height: 100%;
+    }
+    .meet_info {
+        height: 500px;
+        padding-left: 40px;
+    }
+    .meet_img {
+        height: 100%;
+    }
+    .section_img img {
+        width: 58%;
+    }
+    .meet_img img {
+        width: 58%;
+    }
+}
+@media(max-width:991px){
+    .about_us_section {
+        padding-bottom: 0;
+    }
+    .about_img img {
+        width: 86%;
+    }
+    .about_us_info {
+        padding-right: 30px;
+    }
+    .about_content h1 {
+        font-size: 71px;
+        padding: 40px 0;
+    }
+    .black_b_one {
+        top: -51%;
+    }
+    .black_b_two {
+        left: 46%;
+        top: -20%;
+    }
+    .black_b_three {
+        left: 82%;
+    }
+    .about_content p {
+        line-height: normal;
+        font-size: 15px;
+    }
+    .about_img_content p {
+        line-height: normal;
+        font-size: 15px;
+    }
+    .section_heading h1 {
+        font-size: 65px;
+        padding-bottom: 40px;
+    }
+    .section_heading p {
+        line-height: normal;
+        font-size: 15px;
+    }
+    .section_info {
+        height: 500px;
+        padding-right: 40px;
+    }
+    .mission_section {
+        padding-bottom: 50px;
+    }
+    .section_img img {
+        width: 63%;
+    }
+    .meet_img img {
+        width: 63%;
+    }
+    .meet_img {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .meet_info {
+        height: 500px;
+        padding-left: 40px;
+    }
+    .community_img {
+        padding-top: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .community_img img {
+        width: 100% !important;
+        margin-bottom: -29%;
+    }
+    .section_img {
+        height:100%;
+    }
+}
+@media(max-width:575px), (max-width:767px){
+    .black_b_one {
+        left: 25%;
+        top: -70%;
+        width: 24%;
+    }
+    .black_b_two {
+        left: 51%;
+        top: -25%;
+        width: 22%;
+    }
+    .black_b_three {
+        left: 75%;
+        top: 4%;
+        width: 18%;
+    }
+    .about_img {
+        text-align: center;
+    }
+    .extra_img_hidden{
+        display: inherit;
+    }
+    .about_img_content p {
+        padding-bottom: 80px;
+    }
+    .mission_gredian {
+        top: 50%;
+    }
+    .section_heading p {
+        padding: 0 10px;
+    }
+    .path_gredian {
+        top: 39%;
+    }
+    .bottom_gredian {
+        width: 98%;
+    }
+    .about_us_info {
+        padding: 0 10px;
+        text-align: center;
+        padding-right: 0;
+    }
+    .about_img img {
+        position: static;
+        width: 80%;
+    }
+    .about_img_content {
+        text-align: center;
+        padding: 0 10px;
+    }
+    .copy_img{
+        display: inherit;
+    }
+    .hidden_img{
+        display: none;
+    }
+    .section_img {
+        position: static;
+        width: 92%;
+        margin: auto;
+    }
+    .meet_img {
+        position: static;
+        width: 92%;
+        margin: auto;
+    }
+    .mission_section {
+        padding: 0;
+    }
+    .section_info {
+        padding: 0 10px;
+        text-align: center;
+        padding-right: 0;
+    }
+    .meet_info {
+        padding: 0 10px;
+        text-align: center;
+        padding-left: 0;
+    }
+    .awards_info {
+        height: 500px;
+    }
+}
